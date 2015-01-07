@@ -1,1 +1,2 @@
 fichero nuevo
+Se evita el paso de acgregar archivos mediante la opcion de git add

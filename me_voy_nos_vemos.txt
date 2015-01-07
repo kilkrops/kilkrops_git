@@ -1,0 +1,8 @@
+fichero nuevo
+
+
+esto es 
+un cambio
+
+para que nos podamos ver diff
+
